@@ -20,5 +20,5 @@ pip install -r requirements.txt
 python3 finder.py <Target Url>
 
 For example
-python3 finder.py http://example.com
+python3 finder.py http://txt.com
 ```
